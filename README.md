@@ -1,5 +1,5 @@
 # Blockchain-Basics
 Blockchain implementation in python for understanding how blockchain works
 
-- **Execute the file by **
-    py Blockchain.py
+[[https://github.com/nehalchoraria/Blockchain-Basics/blob/master/images/Capture.PNG|alt=octocat]]
+
